@@ -55,7 +55,6 @@ Start a Docker container from the image:
 docker run -it --rm all-cap:0.0.1 https://example.com
 ```
 
-Replace <image_name> with the name of the Docker image you built.
 
 The application should now be running inside the Docker container.
 
