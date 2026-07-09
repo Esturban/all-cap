@@ -2,3 +2,5 @@ venv
 video
 .DS_Store
 **.pyc
+# AI-tool scaffolding
+*.code-workspace
