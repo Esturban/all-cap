@@ -4,3 +4,4 @@ video
 **.pyc
 # AI-tool scaffolding
 *.code-workspace
+.codegraph/
