@@ -5,3 +5,5 @@ video
 # AI-tool scaffolding
 *.code-workspace
 .codegraph/
+.wolf/
+.claude/
