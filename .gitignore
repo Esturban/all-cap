@@ -7,3 +7,8 @@ video
 .codegraph/
 .wolf/
 .claude/
+
+# PII guard (DEV-538)
+hours-report*.xlsx
+**/data/time/*.xlsx
+**/time/*.xlsx
